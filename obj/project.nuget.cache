@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u3XCSDRsLFxbNF9vq1sUl84nn8bv/nHBJWiLIFZmypJ2pT9UOkh+3GvEEGlgedzA7lG/yVWcpGbRj6ZCWUKvQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hossein\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\hossein\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

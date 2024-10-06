@@ -4,6 +4,16 @@ using Microsoft.Extensions.DependencyInjection;
 using CongestionTaxCalculatorDotNet.Interfaces;
 using CongestionTaxCalculatorDotNet.Contexts;
 using CongestionTaxCalculatorDotNet.Services;
+using Microsoft.EntityFrameworkCore;
+using System;
+using Microsoft.Extensions.Configuration;
+
+
+////configuration from appsettings.json
+var builder = new ConfigurationBuilder()
+    .SetBasePath(AppDomain.CurrentDomain.BaseDirectory)
+    .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
+IConfiguration configuration = builder.Build();
 
 string[] dateStrings = {
             "2013-01-01 7:30:00",
@@ -40,18 +50,31 @@ for (var i = 0; i < dateStrings.Length; i++)
 
 var services = new ServiceCollection();
 
-// preparing data for tax rules and toll free dates.
-var rulesRepo = new TaxRuleRepository();
-var taxRules = rulesRepo.LoadTaxRules("example-path");
+//using in memmory sql database
+services.AddDbContext<ApplicationDbContext>(options => options.UseInMemoryDatabase("CongestionTaxCalculatorDB"));
 
+
+// to use local sql server ==> another way, configure sql server database (using my actual connection string)
+//var defaultConnection = configuration.GetConnectionString("DefaultConnection");
+//services.AddDbContext<ApplicationDbContext>(options =>
+//    options.UseSqlServer(defaultConnection));
+
+
+// preparing data for tax rules and toll free dates.
+//var rulesRepo = new TaxRuleRepository();
+//var taxRules = rulesRepo.LoadTaxRules("example-path");
 
 //adding dependency injections 
 services.AddSingleton<ITollFreeDays, TollFreeDays>();
 services.AddTransient<TollCalculatorContext>();
+services.AddTransient<TaxRuleRepository>();
 services.AddSingleton<ICongestionTaxCalculator>(provider =>
 {
-    var tollFreeDays = provider.GetService<ITollFreeDays>();
-    return new CongestionTaxCalculator(taxRules, tollFreeDays.GetTollFreeDates());
+    var rulesRepo = provider.GetService<TaxRuleRepository>();
+    var taxRules = rulesRepo.LoadTaxRules();
+    var tollFreeDaysService = provider.GetService<ITollFreeDays>();
+    var tollFreeDates = tollFreeDaysService.GetTollFreeDates();
+    return new CongestionTaxCalculator(taxRules, tollFreeDates);
 });
 
 var serviceProvider = services.BuildServiceProvider();

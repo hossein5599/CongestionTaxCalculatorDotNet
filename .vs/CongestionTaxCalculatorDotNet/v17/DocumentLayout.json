@@ -3,27 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|c:\\users\\hossein\\desktop\\1403\\congestiontaxcalculatordotnet\\congestiontaxcalculatordotnet\\raw.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:raw.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|c:\\users\\hossein\\desktop\\1403\\congestiontaxcalculatordotnet\\congestiontaxcalculatordotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|c:\\users\\hossein\\desktop\\1403\\congestiontaxcalculatordotnet\\congestiontaxcalculatordotnet\\entities\\foreignvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:entities\\foreignvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|c:\\users\\hossein\\desktop\\1403\\congestiontaxcalculatordotnet\\congestiontaxcalculatordotnet\\repositories\\taxrulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:repositories\\taxrulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|c:\\users\\hossein\\desktop\\1403\\congestiontaxcalculatordotnet\\congestiontaxcalculatordotnet\\services\\congestiontaxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|c:\\users\\hossein\\desktop\\1403\\congestiontaxcalculatordotnet\\congestiontaxcalculatordotnet\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\services\\congestiontaxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:services\\congestiontaxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|c:\\users\\hossein\\desktop\\1403\\congestiontaxcalculatordotnet\\congestiontaxcalculatordotnet\\contexts\\tollcalculatorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Migrations\\20241006094550_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241006094550_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\entities\\taxrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:entities\\taxrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|c:\\users\\hossein\\desktop\\1403\\congestiontaxcalculatordotnet\\congestiontaxcalculatordotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|c:\\users\\hossein\\desktop\\1403\\congestiontaxcalculatordotnet\\congestiontaxcalculatordotnet\\services\\tollfreedays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:services\\tollfreedays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|c:\\users\\hossein\\desktop\\1403\\congestiontaxcalculatordotnet\\congestiontaxcalculatordotnet\\raw.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:raw.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\contexts\\tollcalculatorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:contexts\\tollcalculatorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|c:\\users\\hossein\\desktop\\1403\\congestiontaxcalculatordotnet\\congestiontaxcalculatordotnet\\interfaces\\icongestiontaxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\interfaces\\icongestiontaxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:interfaces\\icongestiontaxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,32 +51,28 @@
       "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:interfaces\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|c:\\users\\hossein\\desktop\\1403\\congestiontaxcalculatordotnet\\congestiontaxcalculatordotnet\\repositories\\taxrulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:repositories\\taxrulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\interfaces\\itollfreedays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:interfaces\\itollfreedays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|c:\\users\\hossein\\desktop\\1403\\congestiontaxcalculatordotnet\\congestiontaxcalculatordotnet\\interfaces\\itollfreedays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:interfaces\\itollfreedays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\entities\\foreignvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:entities\\foreignvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\entities\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:entities\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|c:\\users\\hossein\\desktop\\1403\\congestiontaxcalculatordotnet\\congestiontaxcalculatordotnet\\entities\\militaryvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\entities\\militaryvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:entities\\militaryvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|c:\\users\\hossein\\desktop\\1403\\congestiontaxcalculatordotnet\\congestiontaxcalculatordotnet\\entities\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\entities\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:entities\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\entities\\tractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:entities\\tractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|c:\\users\\hossein\\desktop\\1403\\congestiontaxcalculatordotnet\\congestiontaxcalculatordotnet\\entities\\taxrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|solutionrelative:entities\\taxrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A08A0532-7CAE-4F7B-9476-B36ADECCC856}|CongestionTaxCalculatorDotNet.csproj|C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\entities\\diplomatvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,12 +94,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -93,8 +105,116 @@
               "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241006094550_init.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Migrations\\20241006094550_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241006094550_init.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Migrations\\20241006094550_init.cs",
+              "RelativeToolTip": "Migrations\\20241006094550_init.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:45:51.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:17:55.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaxRuleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Repositories\\TaxRuleRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TaxRuleRepository.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Repositories\\TaxRuleRepository.cs",
+              "RelativeToolTip": "Repositories\\TaxRuleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:30:41.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaxRule.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Entities\\TaxRule.cs",
+              "RelativeDocumentMoniker": "Entities\\TaxRule.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Entities\\TaxRule.cs",
+              "RelativeToolTip": "Entities\\TaxRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T04:30:57.205Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAYwEYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:00:06.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CongestionTaxCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Services\\CongestionTaxCalculator.cs",
+              "RelativeDocumentMoniker": "Services\\CongestionTaxCalculator.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Services\\CongestionTaxCalculator.cs",
+              "RelativeToolTip": "Services\\CongestionTaxCalculator.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAwEoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:01:18.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T08:53:58.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TollFreeDays.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Services\\TollFreeDays.cs",
+              "RelativeDocumentMoniker": "Services\\TollFreeDays.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Services\\TollFreeDays.cs",
+              "RelativeToolTip": "Services\\TollFreeDays.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:10:34.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "raw.txt",
               "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\raw.txt",
               "RelativeDocumentMoniker": "raw.txt",
@@ -107,85 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ForeignVehicle.cs",
-              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Entities\\ForeignVehicle.cs",
-              "RelativeDocumentMoniker": "Entities\\ForeignVehicle.cs",
-              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Entities\\ForeignVehicle.cs",
-              "RelativeToolTip": "Entities\\ForeignVehicle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T04:33:34.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAuwDYAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T01:48:21.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TaxRuleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Repositories\\TaxRuleRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\TaxRuleRepository.cs",
-              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Repositories\\TaxRuleRepository.cs",
-              "RelativeToolTip": "Repositories\\TaxRuleRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T02:33:35.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CongestionTaxCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Services\\CongestionTaxCalculator.cs",
-              "RelativeDocumentMoniker": "Services\\CongestionTaxCalculator.cs",
-              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Services\\CongestionTaxCalculator.cs",
-              "RelativeToolTip": "Services\\CongestionTaxCalculator.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAhwCgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T01:01:18.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TollCalculatorContext.cs",
-              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Contexts\\TollCalculatorContext.cs",
-              "RelativeDocumentMoniker": "Contexts\\TollCalculatorContext.cs",
-              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Contexts\\TollCalculatorContext.cs",
-              "RelativeToolTip": "Contexts\\TollCalculatorContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxYAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T00:36:29.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICongestionTaxCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Interfaces\\ICongestionTaxCalculator.cs",
-              "RelativeDocumentMoniker": "Interfaces\\ICongestionTaxCalculator.cs",
-              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Interfaces\\ICongestionTaxCalculator.cs",
-              "RelativeToolTip": "Interfaces\\ICongestionTaxCalculator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T04:30:30.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "IVehicle.cs",
               "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Interfaces\\IVehicle.cs",
               "RelativeDocumentMoniker": "Interfaces\\IVehicle.cs",
@@ -198,7 +240,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
+              "Title": "ICongestionTaxCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Interfaces\\ICongestionTaxCalculator.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICongestionTaxCalculator.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Interfaces\\ICongestionTaxCalculator.cs",
+              "RelativeToolTip": "Interfaces\\ICongestionTaxCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T04:30:30.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TollCalculatorContext.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Contexts\\TollCalculatorContext.cs",
+              "RelativeDocumentMoniker": "Contexts\\TollCalculatorContext.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Contexts\\TollCalculatorContext.cs",
+              "RelativeToolTip": "Contexts\\TollCalculatorContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:36:29.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ITollFreeDays.cs",
               "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Interfaces\\ITollFreeDays.cs",
               "RelativeDocumentMoniker": "Interfaces\\ITollFreeDays.cs",
@@ -211,7 +279,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
+              "Title": "ForeignVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Entities\\ForeignVehicle.cs",
+              "RelativeDocumentMoniker": "Entities\\ForeignVehicle.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Entities\\ForeignVehicle.cs",
+              "RelativeToolTip": "Entities\\ForeignVehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T04:33:34.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Bus.cs",
               "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Entities\\Bus.cs",
               "RelativeDocumentMoniker": "Entities\\Bus.cs",
@@ -224,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "MilitaryVehicle.cs",
               "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Entities\\MilitaryVehicle.cs",
               "RelativeDocumentMoniker": "Entities\\MilitaryVehicle.cs",
@@ -237,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Motorcycle.cs",
               "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Entities\\Motorcycle.cs",
               "RelativeDocumentMoniker": "Entities\\Motorcycle.cs",
@@ -250,20 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TaxRule.cs",
-              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Entities\\TaxRule.cs",
-              "RelativeDocumentMoniker": "Entities\\TaxRule.cs",
-              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Entities\\TaxRule.cs",
-              "RelativeToolTip": "Entities\\TaxRule.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T04:30:57.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Entities\\Car.cs",
               "RelativeDocumentMoniker": "Entities\\Car.cs",
@@ -276,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "DiplomatVehicle.cs",
               "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Entities\\DiplomatVehicle.cs",
               "RelativeDocumentMoniker": "Entities\\DiplomatVehicle.cs",
@@ -289,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Tractor.cs",
               "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Entities\\Tractor.cs",
               "RelativeDocumentMoniker": "Entities\\Tractor.cs",
@@ -302,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "EmergencyVehicle.cs",
               "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\CongestionTaxCalculatorDotNet\\CongestionTaxCalculatorDotNet\\Entities\\EmergencyVehicle.cs",
               "RelativeDocumentMoniker": "Entities\\EmergencyVehicle.cs",
@@ -310,7 +378,8 @@
               "RelativeToolTip": "Entities\\EmergencyVehicle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T03:49:38.836Z"
+              "WhenOpened": "2024-10-04T03:49:38.836Z",
+              "EditorCaption": ""
             }
           ]
         }

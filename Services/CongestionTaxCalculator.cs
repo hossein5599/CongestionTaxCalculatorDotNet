@@ -74,8 +74,9 @@ public class CongestionTaxCalculator : ICongestionTaxCalculator
     private int GetTollFee(DateTime date)
     {
         var time = date.TimeOfDay;
-        return _taxRules.FirstOrDefault(rule =>
-            time >= rule.StartTime && time < rule.EndTime)?.Amount ?? 0;
+        var result =_taxRules.FirstOrDefault(rule =>
+            time >= rule.StartTime.TimeOfDay && time < rule.EndTime.TimeOfDay)?.Amount ?? 0;
+        return result;
     }
     private bool IsTollFreeDate(DateTime date)
     {

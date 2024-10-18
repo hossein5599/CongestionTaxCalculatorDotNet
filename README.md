@@ -1,7 +1,7 @@
 # CongestionTaxCalculatorDotNet
-My Test For Correcting And Refactoring Using Solid And Patterns In Console Application Using .Net 8
+Sample For Correcting And Refactoring Using Solid And Patterns In Console Application Using .Net 8
 
-## The Scenario
+## The Scenario Before GIVEN TO ME
 A junior colleague started working on an application for calculating congestion tax fees for vehicles within the Gothenburg area and unfortunately, said colleague has gone on parental leave. The uncompleted project of your colleague attached to this file. There are no syntax errors in the attached code, but there seem to be bugs in the calculation, and architecture as well.
 Looking around your colleagues desk, you find a list of dates scribbled on a post-it. Maybe they'll come in handy.
 
